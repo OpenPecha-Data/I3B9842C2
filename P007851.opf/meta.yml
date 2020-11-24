@@ -3,5 +3,18 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG25192
   title: རིམ་ལྔའི་མཐའ་དཔྱོད་གསང་དོན་ཀུནྡ་བཞད་པའི་ལེགས་བཤད་རྒྱུ་སྐར་བདག་པོ།
-  volume: ''
+  volume:
+    4a498f3c42424799bbfe38ca9f07a4d4:
+      image_group_id: I1KG25194
+      title: Volume 1 of rim lnga'i mtha' dpyod gsang don kun+da bzhad pa'i legs bshad
+        rgyu skar bdag po/
+      volume_number: 1
+      total_pages: 280
   author: ''
+ebook_metadata:
+  title: རིམ་ལྔའི་མཐའ་དཔྱོད་གསང་དོན་ཀུནྡ་བཞད་པའི་ལེགས་བཤད་རྒྱུ་སྐར་བདག་པོ།
+  author: ''
+  sku: P007851
+  cover: cover.jpg
+  layers:
+  - pagination
